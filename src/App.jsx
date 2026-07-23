@@ -55,7 +55,7 @@ function App() {
         <Content style={{ padding: '0px', minHeight: 'calc(100vh - 134px)' }}>
           <div className="content-wrapper">
             <Routes>
-              <Route path="/" element={<Home />} />
+              <Route path="/quote" element={<Home />} />
               {/* <Route path="/quote" element={<Quote />} />
               <Route path="/price-manager" element={<PriceManager />} /> */}
             </Routes>
