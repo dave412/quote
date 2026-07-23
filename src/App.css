@@ -1,0 +1,21 @@
+/* App.css */
+.app-layout {
+  min-height: 100vh;
+}
+
+.content-wrapper {
+  background: #fff;
+  padding: 10px;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+  min-height: 80vh;
+}
+
+/* 保持原有的报价单和价格管理样式 */
+.quote-container {
+  /* 您的原有样式 */
+}
+
+.price-manager {
+  /* 您的原有样式 */
+}
